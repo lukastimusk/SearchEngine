@@ -1,0 +1,314 @@
+<DOC>
+<DOCNO> LA010189-0080 </DOCNO>
+<DOCID> 200 </DOCID>
+<DATE>
+<P>
+January 1, 1989, Sunday, Bulldog Edition
+</P>
+</DATE>
+<SECTION>
+<P>
+Part 1; Page 49; Column 1; Tech Desk
+</P>
+</SECTION>
+<LENGTH>
+<P>
+12 words
+</P>
+</LENGTH>
+<HEADLINE>
+<P>
+AI STARTUP FUNDING SURGES
+</P>
+</HEADLINE>
+<BYLINE>
+<P>
+By Staff
+</P>
+</BYLINE>
+<DATELINE>
+<P>
+LOS ANGELES
+</P>
+</DATELINE>
+<TEXT>
+<P>
+AI startups raised record funding in early 1989.
+</P>
+</TEXT>
+<TYPE>
+<P>
+News
+</P>
+</TYPE>
+</DOC>
+
+<DOC>
+<DOCNO> LA010189-0081 </DOCNO>
+<DOCID> 201 </DOCID>
+<DATE>
+<P>
+January 2, 1989, Monday, Bulldog Edition
+</P>
+</DATE>
+<SECTION>
+<P>
+Part 1; Page 10; Column 2; Tech Desk
+</P>
+</SECTION>
+<LENGTH>
+<P>
+8 words
+</P>
+</LENGTH>
+<HEADLINE>
+<P>
+NEW AI TOOLS EMERGE
+</P>
+</HEADLINE>
+<BYLINE>
+<P>
+By Staff
+</P>
+</BYLINE>
+<DATELINE>
+<P>
+SAN FRANCISCO
+</P>
+</DATELINE>
+<TEXT>
+<P>
+Developers released new AI tools for data analysis.
+</P>
+</TEXT>
+<TYPE>
+<P>
+Tech
+</P>
+</TYPE>
+</DOC>
+
+<DOC>
+<DOCNO> LA010189-0082 </DOCNO>
+<DOCID> 202 </DOCID>
+<DATE>
+<P>
+January 3, 1989, Tuesday, Bulldog Edition
+</P>
+</DATE>
+<SECTION>
+<P>
+Part 1; Page 5; Column 3; Business Desk
+</P>
+</SECTION>
+<LENGTH>
+<P>
+7 words
+</P>
+</LENGTH>
+<HEADLINE>
+<P>
+STARTUPS EXPAND GLOBALLY
+</P>
+</HEADLINE>
+<BYLINE>
+<P>
+By Staff
+</P>
+</BYLINE>
+<DATELINE>
+<P>
+NEW YORK
+</P>
+</DATELINE>
+<TEXT>
+<P>
+Several startups expanded globally into data markets.
+</P>
+</TEXT>
+<TYPE>
+<P>
+Business
+</P>
+</TYPE>
+</DOC>
+
+<DOC>
+<DOCNO> LA010189-0083 </DOCNO>
+<DOCID> 203 </DOCID>
+<DATE>
+<P>
+January 4, 1989, Wednesday, Bulldog Edition
+</P>
+</DATE>
+<SECTION>
+<P>
+Part 2; Page 7; Column 1; Science Desk
+</P>
+</SECTION>
+<LENGTH>
+<P>
+9 words
+</P>
+</LENGTH>
+<HEADLINE>
+<P>
+RESEARCHERS DEVELOP NEW ROBOT ARM
+</P>
+</HEADLINE>
+<BYLINE>
+<P>
+By Science Writer
+</P>
+</BYLINE>
+<DATELINE>
+<P>
+BOSTON
+</P>
+</DATELINE>
+<TEXT>
+<P>
+MIT engineers revealed a lightweight robotic arm design.
+</P>
+</TEXT>
+<TYPE>
+<P>
+Science
+</P>
+</TYPE>
+</DOC>
+
+<DOC>
+<DOCNO> LA010189-0084 </DOCNO>
+<DOCID> 204 </DOCID>
+<DATE>
+<P>
+January 5, 1989, Thursday, Bulldog Edition
+</P>
+</DATE>
+<SECTION>
+<P>
+Part 2; Page 3; Column 4; Environment Desk
+</P>
+</SECTION>
+<LENGTH>
+<P>
+10 words
+</P>
+</LENGTH>
+<HEADLINE>
+<P>
+SOLAR ENERGY ADOPTION INCREASES
+</P>
+</HEADLINE>
+<BYLINE>
+<P>
+By Staff
+</P>
+</BYLINE>
+<DATELINE>
+<P>
+SAN DIEGO
+</P>
+</DATELINE>
+<TEXT>
+<P>
+More homes adopted solar energy systems across California.
+</P>
+</TEXT>
+<TYPE>
+<P>
+Environment
+</P>
+</TYPE>
+</DOC>
+
+<DOC>
+<DOCNO> LA010189-0085 </DOCNO>
+<DOCID> 205 </DOCID>
+<DATE>
+<P>
+January 6, 1989, Friday, Bulldog Edition
+</P>
+</DATE>
+<SECTION>
+<P>
+Part 3; Page 12; Column 2; Business Desk
+</P>
+</SECTION>
+<LENGTH>
+<P>
+9 words
+</P>
+</LENGTH>
+<HEADLINE>
+<P>
+TECH COMPANIES FORM ALLIANCE
+</P>
+</HEADLINE>
+<BYLINE>
+<P>
+By Staff
+</P>
+</BYLINE>
+<DATELINE>
+<P>
+SEATTLE
+</P>
+</DATELINE>
+<TEXT>
+<P>
+Major tech companies formed an alliance for open standards.
+</P>
+</TEXT>
+<TYPE>
+<P>
+Business
+</P>
+</TYPE>
+</DOC>
+
+<DOC>
+<DOCNO> LA010189-0086 </DOCNO>
+<DOCID> 206 </DOCID>
+<DATE>
+<P>
+January 7, 1989, Saturday, Bulldog Edition
+</P>
+</DATE>
+<SECTION>
+<P>
+Part 3; Page 4; Column 1; Foreign Desk
+</P>
+</SECTION>
+<LENGTH>
+<P>
+8 words
+</P>
+</LENGTH>
+<HEADLINE>
+<P>
+NEW TRADE DEAL REACHED IN EUROPE
+</P>
+</HEADLINE>
+<BYLINE>
+<P>
+By Staff
+</P>
+</BYLINE>
+<DATELINE>
+<P>
+LONDON
+</P>
+</DATELINE>
+<TEXT>
+<P>
+European nations reached a new trade agreement this week.
+</P>
+</TEXT>
+<TYPE>
+<P>
+Wire
+</P>
+</TYPE>
+</DOC>
